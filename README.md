@@ -4,3 +4,6 @@ A Python 3 Jupyter Notebook, consisting of code which can be used to detect Park
 
 Library/Libraries Used:
 * XGBoost
+* Scikit-learn
+* Numpy
+* Pandas 
